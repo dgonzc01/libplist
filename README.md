@@ -1,5 +1,7 @@
 # libplist
 
+This is the plist library with version 2.2.0-137
+
 *A small portable C library to handle Apple Property List files in binary, XML,
 JSON, or OpenStep format.*
 
